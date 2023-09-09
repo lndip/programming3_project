@@ -1,0 +1,21 @@
+5d1b7a61 - Ngoc Diep Luong, authored 2 weeks ago : Add draft sisu inheritance model
+aad3aa10 - Ngoc Diep Luong, authored 1 weeks ago : Reformat inheritance structure
+8ad74a2e - Nghi Quyen, authored 1 weeks ago : read Degree and Track of Degree from URL
+
+979c3ae - Nghi Quyen, 3 hours ago : complete javadoc
+1312a16 - Nghi Quyen, 3 hours ago : generate javadoc
+eaf0012 - Ngoc Diep Luong, 5 days ago : add load user
+78c10a5 - Ngoc Diep Luong, 5 days ago : Modify gui (students tab) structure
+22996d8 - Ngoc Diep Luong, 5 days ago : Add course tickboxes
+0d34ad0 - Nghi Quyen, 5 days ago : create User and update Factory
+6d36b0e - Ngoc Diep Luong, 6 days ago : Got data related to study structure on GUI
+8d3a8b0 - Ngoc Diep Luong, 6 days ago : Add GUIController to control the chosen degree and the chosen track\
+ba7d73b - Ngoc Diep Luong, 6 days ago : Draft gui
+7a5c94d - Nghi Quyen, 11 days ago : Fetch API module Degree
+8ad74a2 - Nghi Quyen, 13 days ago : read Degree and Track of Degree from URL
+aad3aa1 - Ngoc Diep Luong, 2 weeks ago : Reformat inheritance structure
+5d1b7a6 - Ngoc Diep Luong, 2 weeks ago : Add draft sisu inheritance model
+2f50fd3 - Jorma Laurikkala, 5 weeks ago : The public modifier to the interface methods to ease copy and paste.
+eb73f20 - Mika Saari, 5 weeks ago : generalization of exceptions
+2016499 - Jorma Laurikkala, 5 weeks ago : README.md updated. Everything else as it was.
+815b673 - repolainen, 3 months ago : Template repository initialization
