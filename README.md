@@ -5,5 +5,7 @@ This is the repository for implementing the course project. This includes the im
 The project is written in Java and can be compiled with Maven. Run `mvn clean javafx:run` from the Sisu directory to execute the program.
 
 # Authors
-Diep Luong
-Nghi Quyen
+<ul>
+  <li> Diep Luong
+  <li> Nghi Quyen
+<ul>
